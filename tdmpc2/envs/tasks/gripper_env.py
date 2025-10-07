@@ -1,6 +1,6 @@
 import os
 import gym
-from gym import spaces
+from gymnasium import spaces
 import numpy as np
 import mujoco
 from gripper_controller import rand_spawn
